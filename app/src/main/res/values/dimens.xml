@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="fab_margin_end">16dp</dimen>
+    <dimen name="fab_margin_up">64dp</dimen>
+    <dimen name="padding_layout">8dp</dimen>
+    <dimen name="top_fab">70dp</dimen>
+    <dimen name="end_fab">24dp</dimen>
+
+    <dimen name="image_width">45dp</dimen>
+
+    <dimen name="fab_margin_top">36dp</dimen>
+    <dimen name="padding_detail">16dp</dimen>
+    <dimen name="tv_margin_description">16dp</dimen>
+    <dimen name="tv_margin_value">86dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="textSize_dayOfWeek">22sp</dimen>
+    <dimen name="textSizeSnack">8sp</dimen>
+    <dimen name="text_snack">6sp</dimen>
+
+</resources>

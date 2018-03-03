@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Metcast</string>
+
+
+    <string name="font_roboto_medium">fonts/Roboto-Medium.ttf</string>
+    <string name="font_roboto_regular">fonts/Roboto-Regular.ttf</string>
+
+    <string name="web_service">
+      http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="hint_text">Enter city (Moscow)</string>
+    <string name="temperature">temp</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity: </string>
+    <string name="description">Description:</string>
+    <string name="speed">speed</string>
+    <string name="minT">minT:</string>
+    <string name="maxT">maxT:</string>
+    <string name="dayT">dayT:</string>
+    <string name="descWeather">DescWeather: </string>
+    <string name="WD">WD: </string>
+    <string name="pointDay">0 day</string>
+
+    <string name="enter_day">Point the number of days for weather</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="day_temperature">Day temperature:</string>
+    <string name="min_temperature">MinDay temperature:</string>
+    <string name="max_temperature">MaxDay temperature:</string>
+    <string name="day_week">Day of week:</string>
+    <string name="detailed_forecast">Detailed forecast</string>
+    <string name="default_countDay">The number of days by default = 7</string>
+    <string name="default_town">The name of the city defaul Moscow</string>
+    <string name="cancel">Отменить</string>
+    <string name="delete">Удалить</string>
+    <string name="yes">да</string>
+
+    <string name="empty">По данному запросу ничего не найдено !!!</string>
+    <string name="fill_in_the_fields">Заполните поля !!!</string>
+    <string name="favorites">Избранное</string>
+    <string name="search_town">Select city:</string>
+    <string name="error_save">Город ранее сохранен</string>
+    <string name="successful_save">Город сохранен</string>
+    <string name="tag_town">tag_town</string>
+
+
+    <string name="not_favorites">В избранном ничего не сохранено</string>
+    <string name="repeat_query">Попробуйте сделать другой запрос!По данному запросу ничего не найдено!</string>
+
+</resources>
